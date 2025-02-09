@@ -28,7 +28,7 @@
 ## How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git
+   git clone --https://github.com/aman-jaiswal09/Airbnb-Listings-Data-Exploration-Visualization
    ```
 2. Install dependencies:
    ```bash
