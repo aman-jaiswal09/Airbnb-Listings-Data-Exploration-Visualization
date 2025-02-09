@@ -36,7 +36,7 @@
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook day23_airbnb_eda.ipynb
+   jupyternotebook - airbnb.ipynb
    ```
 
 ## Recommendations
